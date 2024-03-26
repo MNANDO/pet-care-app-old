@@ -16,14 +16,33 @@ Pet care app is a comprehensive and intuitive pet management app designed to sim
 
 ### App Evaluation
 
-App Idea 1: Pet Care App
-- **Category:** 
-- **Mobile:** 
-- **Story:**
-- **Market:**
-- **Habit:**
-- **Scope:**
+App Idea 1: Pet Care App (first priority)
+- **Category:** Home Care 
+- **Mobile:** This app focuses on providing a seamless experience to taking care of pets. It has many features including updating real-time data to family/group meembers and using user roles and locaiton to send personalized notifications that help with pet care.
+- **Story:** This app mainly targets the familys or groups that have pets. This app is very essential and an important addition to any family's needs. This helps save time and effort for each member responsible for the pet and also helps to provide the necessities for the pet promptly. 
+- **Market:** As mentioned, this is directly targeted toward pet owners. Since this is a general category, the app can be used by people anywhere in the world, which makes the audience size very large. 
+- **Habit:** This app is meant to be used daily by the users, to complete and check tasks that contribute to taking care of the pet. It is not addictive in nature, but the idea of the app itself prompts a cyclic behavior as the people using the app will use it multiple times a day. 
+- **Scope:** This app is very clearly thought out, so the approaach to making a fundamental design of this app is direct. Since this app will be personally used by some of our group members, we are excited to work on the fundamentals, even if the fully poolished version will all the features will be hard to dliver before the deadline.
 
+App Idea 2: Trivia 
+- **Category:** Games
+- **Mobile:** This app uses the GPT API to convert a trivia request by the user to find a database to pull general questions from about a certain topic. This app will use location of the user to have suggestions about what quizzes to generate. Ex. A quiz about the prominance of a certain location when they visit it. It also updates the score of a user in real time as they take the quiz. We can also add leaderboard among the user's friends in the app and update their position on it in real-time. 
+- **Story:** This app targets the people looking for a fun passtime or someone who is looking to expand their general knowledge. This is an exciting idea as users get quizzes on-demand without having to browse the internet. Having leaderboard rankings among your peers is also envokes competitive spirit, which is always fun.
+- **Market:** Since this app provides a way for users to specify their own category, this will reach a wide audience unlike  pre-specified quizzes online. There is no well-defined audience for this app. 
+- **Habit:** The addictive nature of this app depends on the user's want to top the leaderboard against their peers and also gain knowledge along the way. To make the users visit the app habitually, we can add custom notications based on location and time to suggest different categories of quizzes to take, and earn daily points.
+- **Scope:** Since this is an abstract and open idea, it is complex to navigate through. Since we are limited by time, the stripped-down version of this app will still be exciting to learn as it teaches us more about using databases and espcially integreating them with GPT API.
+
+App Idea 3: PC Building App 
+- **Category:**  Tech
+- **Mobile:** The PC Building app helps users build their PC by categorizing and listing parts from an expansive database. The unique feature of this app would be updating each of the parts with the current price that the part is selling for. If the user needs further help, it would allow them to take the quiz to determine their preferneces so that the app can suggest the best parts for the user to buy for their PC. 
+- **Story:** The target audience of this app are people that want a desktop PC but do not know where to start in the wide world of building PCs. There are many people (even in our friend groups) who do no have much idea about PC parts and would like to build one in the future, this app would help them greatly. 
+- **Market:** Beacuse this app helps people that are looking to upgrade or build their PCs, it has a specific set of audience that it would serve. However, this app is also not very niche as it helps beginners as well as experts as it both suggests and displays crucial data about what parts are avialable and their respective prices. 
+- **Habit:** Other than general tech enthusiasts or professionals, this app only is helpful to people who are upgrading or looking to build their PC. There is no addictive proposition for this app. 
+- **Scope:** This app involves heavy data manipulation, and would take a lot of time. Other than extra features (like the quiz), the fundamentals of this app would be fun to work on and we would rank this the same as the trivia intems of our inclination to work on the project.
+
+The main motive behind choosing App Idea 1 (pet care app) is because we saw us personally using this app. As we went on through our unique ideas for this app, we also realized that this would help a lot of families and groups as there is nothing in the market competing with our app directly. The uniqueness and the usefulness of this app is what made us ultimately choose it over the other two ideas. 
+
+  
 ## Product Spec
 
 ### 1. User Features (Required and Optional)
