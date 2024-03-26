@@ -1,6 +1,6 @@
 # Pet Care App
 
-# Milestone 1 - APP_NAME_HERE (Unit 7)
+# Milestone 1 - Pet Care App (Unit 7)
 
 ## Table of Contents
 
@@ -75,12 +75,13 @@ Pet care app is a comprehensive and intuitive pet management app designed to sim
 
 **Flow Navigation** (Screen to Screen)
 
-- [list first screen here]
-  - [list screen navigation here]
-  - ...
-- [list second screen here]
-  - [list screen navigation here]
-  - ...
+- Home Screen
+
+- Profile Screen
+  - Settings
+  - Group Details
+- Pets Screen
+  - Add pet
 
 ## Wireframes
 
