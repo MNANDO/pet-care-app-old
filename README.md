@@ -16,7 +16,7 @@ Pet care app is a comprehensive and intuitive pet management app designed to sim
 
 ### App Evaluation
 
-[Evaluation of your app across the following attributes]
+App Idea 1: Pet Care App
 - **Category:** 
 - **Mobile:** 
 - **Story:**
