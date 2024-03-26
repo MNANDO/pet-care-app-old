@@ -105,6 +105,14 @@ App Idea 1: Pet Care App
 <img width="302" alt="image" src="https://github.com/MNANDO/pet-care-app/assets/17109419/53f96a8d-fddc-4a06-bf7a-515cdb62f0f1">
 <img width="303" alt="image" src="https://github.com/MNANDO/pet-care-app/assets/17109419/2f9c4924-2cbd-4ce1-a106-1b41bc6aaca3">
 
+### High Fidelity Wireframe
+<img width="201" alt="image" src="https://github.com/MNANDO/pet-care-app/assets/17109419/2a20bc90-e2e6-4bf5-8ef7-61e315ccf740">
+<img width="201" alt="image" src="https://github.com/MNANDO/pet-care-app/assets/17109419/24f88c34-6096-4522-9881-9b628c5de024">
+<img width="202" alt="image" src="https://github.com/MNANDO/pet-care-app/assets/17109419/b4cd179f-11dd-4483-862c-b4a4004ee16a">
+<img width="201" alt="image" src="https://github.com/MNANDO/pet-care-app/assets/17109419/b1184278-4273-43aa-a062-c86f1fda2167">
+<img width="199" alt="image" src="https://github.com/MNANDO/pet-care-app/assets/17109419/21398f96-7a3f-4c80-8d21-789def2a0747">
+<img width="201" alt="image" src="https://github.com/MNANDO/pet-care-app/assets/17109419/3ae7cf2f-ab8a-4f4b-bf12-a23783fd9f4e">
+
 ### [BONUS] Interactive Prototype
 https://xd.adobe.com/view/c906ab4c-6afa-4d72-8d6e-0c3ce35b531b-9c55/
 
